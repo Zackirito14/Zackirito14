@@ -3,19 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Integration+Specialist;Automation+Engineer;Technical+SEO+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=4F8CFF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Integration+Specialist;Automation+Engineer;Technical+SEO+Developer" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Jorgen Gil F. Fosgate</h1>
-
-<h3 align="center">
-Building modern web applications, AI-powered business solutions, and automation systems.
-</h3>
+<p align="center">
+Building modern web applications, AI-powered business solutions, automation systems, and technical SEO tools.
+</p>
 
 <p align="center">
 
 <a href="https://jorgen-fosgate.jorgengilfosgate.workers.dev">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jorgen-gil-fosgate-000a391b4/">
@@ -27,33 +25,43 @@ Building modern web applications, AI-powered business solutions, and automation 
 </a>
 
 <a href="mailto:jorgengilfosgate@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+# 💼 What I Build
+
+✔ Enterprise HRIS & Internal Dashboards
+
+✔ AI-Powered Business Applications
+
+✔ Workflow & Process Automation
+
+✔ REST API Integrations
+
+✔ Technical SEO & Website Optimization
+
+✔ Chrome Extensions & Productivity Tools
+
+---
+
 # 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** from the **Philippines 🇵🇭** who enjoys building software that solves real business problems.
+I'm a **Full-Stack Developer** from the **Philippines 🇵🇭** passionate about creating software that improves business efficiency through automation and AI.
 
-I specialize in:
+My primary focus is building modern applications that are scalable, maintainable, and solve real operational problems.
 
-- 🤖 AI Integration & Business Automation
-- 💻 Full-Stack Web Development
-- 📊 Internal Dashboards & CRM Systems
-- ⚙️ Workflow Automation
-- 🔍 Technical SEO & Web Optimization
+### Current Interests
 
-Currently expanding my expertise in:
-
-- AI Agents
-- n8n Automation
-- Claude API
-- PostgreSQL
-- Docker
-- LangChain
+- 🤖 AI Agents
+- ⚡ Business Automation
+- 🧠 OpenAI & Claude APIs
+- 🔄 n8n Workflows
+- ☁️ Cloud Applications
+- 📊 Technical SEO
 
 ---
 
@@ -61,25 +69,25 @@ Currently expanding my expertise in:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zackirito14&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zackirito14&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackirito14&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackirito14&layout=compact&langs_count=8&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Zackirito14&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Zackirito14&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,python,js,html,css,tailwind,git,github,vscode,vercel,cloudflare,figma,wordpress"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,python,js,ts,html,css,tailwind,vite,git,github,vscode,vercel,cloudflare,figma,wordpress"/>
 
 </p>
 
@@ -87,80 +95,42 @@ Currently expanding my expertise in:
 
 # 🚀 Featured Projects
 
-## 🏢 Prosper HRIS & Operations Dashboard
-
-Enterprise HRIS and Operations Dashboard built with React, Node.js, MongoDB, and Firebase.
-
-### Highlights
-
-- Role-Based Authentication
-- Employee Management
-- Monitoring Dashboard
-- Time Tracking
-- Internal Operations
-- REST API Integration
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🏢 **Prosper HRIS Dashboard** | Enterprise HRIS, employee monitoring, time tracking, internal operations dashboard | React • Node.js • MongoDB • Firebase |
+| 🤖 **Benny AI Benefits Assistant** | AI-powered employee benefits assistant with OpenAI integration | Node.js • Express • Firebase • OpenAI |
+| 📊 **Maptive SEO Audit Desktop** | Desktop application for metadata analysis, H1 extraction, sitemap crawling, and SEO reporting | Python • Selenium • Technical SEO |
+| 🐍 **Automation Toolkit** | Python automation scripts with Google Sheets integration and workflow automation | Python • Google APIs |
 
 ---
 
-## 🤖 Benny AI Benefits Assistant
-
-AI-powered employee benefits assistant utilizing OpenAI and Firebase.
-
-### Highlights
-
-- AI Conversations
-- Prompt Engineering
-- OpenAI Integration
-- Authentication
-- Business Workflows
-- API Integrations
-
----
-
-## 📊 Maptive SEO Audit Desktop
-
-Desktop application designed for technical SEO auditing and reporting.
-
-### Highlights
-
-- Metadata Audit
-- H1 Analysis
-- Sitemap Crawling
-- SEO Reporting
-- Website Analysis
-
----
-
-## 🐍 Python Automation Tools
-
-Python-based automation projects focused on productivity and SEO.
-
-### Highlights
-
-- Web Scraping
-- Google Sheets Integration
-- Data Automation
-- Batch Processing
-
----
-
-# 🎯 Current Focus
+# 🎯 Currently Building
 
 - 🤖 AI Agents
-- ⚡ Business Automation
-- 🌐 SaaS Development
-- 🧠 AI Integrations
-- 📈 Technical SEO
-- 🚀 Cloud Applications
+- ⚡ n8n Automations
+- 🏢 Internal Business Systems
+- 🌐 SaaS Applications
+- 📈 SEO Automation Tools
 
 ---
 
-# 📫 Let's Connect
+# 📚 Currently Learning
+
+- PostgreSQL
+- Docker
+- LangChain
+- AI Agent Architectures
+- Advanced Prompt Engineering
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
-<a href="https://jorgen-fosgate.jorgengilfosgate.workers.dev">Portfolio</a> •
+<a href="https://jorgen-fosgate.jorgengilfosgate.workers.dev">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/jorgen-gil-fosgate-000a391b4/">LinkedIn</a> •
+<a href="https://github.com/Zackirito14">GitHub</a> •
 <a href="https://www.upwork.com/freelancers/~0149c090f54455e1d7?mp_source=share">Upwork</a> •
 <a href="mailto:jorgengilfosgate@gmail.com">Email</a>
 
@@ -170,12 +140,10 @@ Python-based automation projects focused on productivity and SEO.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Zackirito14&label=Profile%20Views&color=4F8CFF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Zackirito14&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </p>
 
 <p align="center">
-
-⭐ Thanks for visiting my GitHub profile!
-
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 </p>
