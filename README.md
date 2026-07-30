@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="github-banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 <h1 align="center">
 Hi 👋, I'm Jorgen Gil F. Fosgate
 </h1>
 
 <h3 align="center">
-Full-Stack Developer • AI Integration Specialist • Automation Engineer • Technical SEO
+Full-Stack Developer • AI Integration Specialist • Automation Engineer
 </h3>
 
 <p align="center">
